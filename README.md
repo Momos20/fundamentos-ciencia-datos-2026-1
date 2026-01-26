@@ -1,8 +1,11 @@
-<img src="https://latimpacto.org/wp-content/uploads/2023/11/Eafit.png" width=40% height=40% >
+<p align="center">
+  <img src="https://latimpacto.org/wp-content/uploads/2023/11/Eafit.png" width="40%">
+</p>
 
-# FUNDAMENTOS CIENCIAS DE DATOS 2026-1
+<h1 align="center">Fundamentos de Ciencia de Datos</h1>
+
 Este repositorios se hace con el objetivo de desarrollar las actividades propuestas en la asignatura
-de Fundamentos Ciencia de Datos de la universidad EAFIT
+de Fundamentos Ciencia de Datos de la Maestría en Ciencia de los Datos y Analítica de la  universidad EAFIT
 
 ## Miembros del equipo
 
