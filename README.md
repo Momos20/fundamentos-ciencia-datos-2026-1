@@ -13,3 +13,6 @@ de Fundamentos en Ciencia de Datos de la Maestría en Ciencia de los Datos y Ana
 - Juan Camilo Cataño Zuleta
 - Juan Manuel [Completar]
 
+## Notebooks
+
+- 00-Primera_entrega [Abrir en Colab](https://colab.research.google.com/drive/1tuegYgT-I_TN7PTKBDCxaLOzYqMbXKmy?usp=sharing)
