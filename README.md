@@ -11,7 +11,7 @@ de Fundamentos en Ciencia de Datos de la Maestría en Ciencia de los Datos y Ana
 
 - Miguel [Completar]
 - Juan Camilo Cataño Zuleta
-- Juan Manuel [Completar]
+- Juan Manuel Agudelo Olarte
 
 ## Notebooks
 
