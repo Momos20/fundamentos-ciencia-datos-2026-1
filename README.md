@@ -15,4 +15,4 @@ de Fundamentos en Ciencia de Datos de la Maestría en Ciencia de los Datos y Ana
 
 ## Notebooks
 
-- 00-Primera_entrega [Abrir en Colab](https://colab.research.google.com/drive/1tuegYgT-I_TN7PTKBDCxaLOzYqMbXKmy?usp=sharing)
+- 00-EDA_OSEMN_StudentPerformance [Abrir en Colab](https://colab.research.google.com/drive/1RRouorT8nlfkzKqUiqnGf9xH1kM3s2Pk?usp=sharing)
