@@ -9,7 +9,7 @@ de Fundamentos en Ciencia de Datos de la Maestría en Ciencia de los Datos y Ana
 
 ## Miembros del equipo
 
-- Miguel [Completar]
+- Miguel Roldan Yepes
 - Juan Camilo Cataño Zuleta
 - Juan Manuel Agudelo Olarte
 
