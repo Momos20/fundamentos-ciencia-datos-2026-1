@@ -25,5 +25,5 @@ de Fundamentos en Ciencia de Datos de la Maestría en Ciencia de los Datos y Ana
 - Violencia intrafamiliar Colombia (2015 a 2024) — Datos.gov.co:  
   https://www.datos.gov.co/Justicia-y-Derecho/Violencia-intrafamiliar-Colombia-a-os-2015-a-2024-/ers2-kerr/about_data
 
-- Student Performance — Kaggle:  
+- Student Performance — Kaggle (Base de datos para el EDA):  
   https://www.kaggle.com/datasets/neurocipher/student-performance
