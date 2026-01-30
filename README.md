@@ -15,7 +15,7 @@ de Fundamentos en Ciencia de Datos de la Maestría en Ciencia de los Datos y Ana
 
 ## Notebooks
 
-- 00-EDA_OSEMN_StudentPerformance [Abrir en Colab](https://colab.research.google.com/drive/1RRouorT8nlfkzKqUiqnGf9xH1kM3s2Pk?usp=sharing)
+- 00-EDA_OSEMN_StudentPerformance [Abrir en Colab](https://colab.research.google.com/drive/1vr-W4nOyPDwZTMD1jDkHX2GCgWK5U9bb?usp=sharing)
 
 ## Bases de datos
 
